@@ -7,7 +7,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Snaker</RootNamespace>
-    <AssemblyName>Game</AssemblyName>
+    <AssemblyName>Snaker</AssemblyName>
     <XnaFrameworkVersion>v2.0</XnaFrameworkVersion>
     <XnaPlatform>Windows</XnaPlatform>
     <XnaCrossPlatformGroupID>e47ac611-e347-4db3-bb6b-732c343937fa</XnaCrossPlatformGroupID>
@@ -61,6 +61,8 @@
     <Compile Include="FrameRateCounter.cs" />
     <Compile Include="FadeablePage.cs" />
     <Compile Include="GameLayer.cs" />
+    <Compile Include="HoverButton.cs" />
+    <Compile Include="OptionsMenu.cs" />
     <Compile Include="MainMenu.cs" />
     <Compile Include="MessageLayer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

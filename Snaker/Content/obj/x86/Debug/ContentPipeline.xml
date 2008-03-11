@@ -73,6 +73,15 @@
       <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\mainmenu-button.xnb</Output>
       <Time>2008-03-11T16:52:03.5678+01:00</Time>
     </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\exit.xnb</Output>
+      <Time>2008-03-11T17:08:42.0378+01:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

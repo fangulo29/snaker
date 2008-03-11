@@ -12,8 +12,8 @@ namespace Snaker
 {
     public enum GamePages
     {
-        MainMenu = 0,
-        MainMenu2 = 1
+        MainMenu,
+        OptionsMenu
     }
     /// <summary>
     /// This is a game component that implements IUpdateable.
@@ -31,7 +31,7 @@ namespace Snaker
         {
             engine = game as Engine;
             new MainMenu(engine, this, GamePages.MainMenu);
-            new MainMenu(engine, this, GamePages.MainMenu2);
+            new OptionsMenu(engine, this, GamePages.OptionsMenu);
             // TODO: Construct any child components here
         }
 

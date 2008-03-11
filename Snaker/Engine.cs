@@ -24,9 +24,11 @@ namespace Snaker
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+            this.IsMouseVisible = true;
 
             graphics.PreferredBackBufferWidth = 800;
             graphics.PreferredBackBufferHeight = 600;
+            graphics.IsFullScreen = true;
             graphics.ApplyChanges();
 
             Components.Add(new GameLayer(this));
