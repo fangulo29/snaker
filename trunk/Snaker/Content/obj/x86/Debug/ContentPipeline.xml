@@ -7,44 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\FrameRateCounter\Font.xnb</Output>
-      <Time>2008-03-09T12:50:40.243+01:00</Time>
-    </Item>
-    <Item>
-      <Source>BloomCombine.fx</Source>
-      <Name>BloomCombine</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\BloomCombine.xnb</Output>
-      <Time>2008-03-09T15:00:59.854+01:00</Time>
-    </Item>
-    <Item>
-      <Source>BloomExtract.fx</Source>
-      <Name>BloomExtract</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\BloomExtract.xnb</Output>
-      <Time>2008-03-09T15:00:59.955+01:00</Time>
-    </Item>
-    <Item>
-      <Source>GaussianBlur.fx</Source>
-      <Name>GaussianBlur</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\GaussianBlur.xnb</Output>
-      <Time>2008-03-09T15:00:59.799+01:00</Time>
-    </Item>
-    <Item>
-      <Source>sunset.jpg</Source>
-      <Name>sunset</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\sunset.xnb</Output>
-      <Time>2008-03-09T15:11:51.949+01:00</Time>
+      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\FrameRateCounter\Font.xnb</Output>
+      <Time>2008-03-11T16:52:01.8628+01:00</Time>
     </Item>
     <Item>
       <Source>Standard.spritefont</Source>
@@ -52,8 +16,35 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\Standard.xnb</Output>
-      <Time>2008-03-09T18:00:29.496+01:00</Time>
+      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\Standard.xnb</Output>
+      <Time>2008-03-11T16:52:03.5798+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomCombine.fx</Source>
+      <Name>BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\BloomCombine.xnb</Output>
+      <Time>2008-03-11T16:52:03.5098+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomExtract.fx</Source>
+      <Name>BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\BloomExtract.xnb</Output>
+      <Time>2008-03-11T16:52:03.5028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GaussianBlur.fx</Source>
+      <Name>GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\GaussianBlur.xnb</Output>
+      <Time>2008-03-11T16:52:03.5738+01:00</Time>
     </Item>
     <Item>
       <Source>background.png</Source>
@@ -61,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2008-03-10T18:03:41.7808+01:00</Time>
+      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2008-03-11T16:52:03.5178+01:00</Time>
     </Item>
     <Item>
       <Source>logo.png</Source>
@@ -70,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\logo.xnb</Output>
-      <Time>2008-03-11T15:08:52.972+01:00</Time>
+      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\logo.xnb</Output>
+      <Time>2008-03-11T16:52:03.5288+01:00</Time>
     </Item>
     <Item>
       <Source>mainmenu-button.png</Source>
@@ -79,17 +70,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\mainmenu-button.xnb</Output>
-      <Time>2008-03-10T20:08:19.4268+01:00</Time>
+      <Output>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\mainmenu-button.xnb</Output>
+      <Time>2008-03-11T16:52:03.5678+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
       <BuildConfiguration>Debug</BuildConfiguration>
-      <RootDirectory>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
