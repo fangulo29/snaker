@@ -1,1 +1,2 @@
 C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Game\Game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kai Patrick\Documents\Visual Studio 2005\Projects\Snaker\Snaker\Content\obj\x86\Debug\ResolveAssemblyReference.cache
