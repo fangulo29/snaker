@@ -26,14 +26,14 @@ namespace Snaker
     public class FadeablePage
     {
         
-        protected Engine engine;
+        public Engine engine;
         protected GameLayer layer;
         const int fadeLength = 60;
         int fadeStep = 0;
         public FadeStates FadeState = FadeStates.None;
         GamePages page;
 
-        protected byte Alpha
+        public byte Alpha
         {
             get
             {
@@ -48,6 +48,13 @@ namespace Snaker
                     default:
                         return 0;
                 }
+            }
+        }
+
+        public Color AlphaColor
+        {
+            get {
+                return new Color(255, 255, 255, Alpha);
             }
         }
 

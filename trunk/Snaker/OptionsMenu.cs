@@ -11,7 +11,7 @@ using Microsoft.Xna.Framework.Content;
 
 namespace Snaker
 {
-    class MainMenu : FadeablePage
+    class OptionsMenu : FadeablePage
     {
         Texture2D logo;
         Texture2D button;
@@ -19,7 +19,7 @@ namespace Snaker
         SpriteBatch spriteBatch;
         HoverButton exitButton;
 
-        public MainMenu(Engine engine, GameLayer layer, GamePages page): base(engine, layer, page)
+        public OptionsMenu(Engine engine, GameLayer layer, GamePages page): base(engine, layer, page)
         {
             exitButton = new HoverButton(this, "exit", new Point(20, 450));
             exitButton.OnClick += onExitClick;
@@ -56,7 +56,7 @@ namespace Snaker
                     engine.Exit();
                 if (Keyboard.GetState().IsKeyDown(Keys.Enter))
                 {
-                        layer.gotoPage(GamePages.OptionsMenu);
+                     layer.gotoPage(GamePages.MainMenu);
                 }
 
                 exitButton.Update();
@@ -84,9 +84,7 @@ namespace Snaker
 
         protected void onExitClick(object sender, EventArgs eventArgs)
         {
-            //TODO: ask if really
-            engine.Exit();
-            //layer.gotoPage(GamePages.OptionsMenu);
+            layer.gotoPage(GamePages.MainMenu);
         }
     }
 }
